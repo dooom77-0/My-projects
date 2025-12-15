@@ -8,7 +8,7 @@ export default function Projects() {
       tags:"Html Css JS React JSON"
     },
      
-    { id: 3, img: "/Old.png", name: "Old portfolio", des: "أول مشروع لي باستخدام html وcss", url: "https://my-own-site-k7k.pages.dev/", tags: "Html Css" },
+    { id: 3, img: "/Old.png", name: "Old portfolio", des: "أول مشروع لي باستخدام html وcss", url: "https://old-portfolio-d7.pages.dev/", tags: "Html Css" },
     
     { id: 4, img: "/Memory.jpg", name: "لعبة الذاكرة", des: "لعبة تفاعلية تساعد على تحسين الذاكرة والتركيز.", url: "https://memory-game-d7.pages.dev/", tags: "Html Css JS" },
     
