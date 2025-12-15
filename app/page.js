@@ -22,7 +22,7 @@ export default function Projects() {
     
     { id: 9, img: "/currency.jpg", name: "محول العملات", des: "يقوم بتحويل مبلغ من وحدة العملات الى وحدة اخرى", url: "https://currency-converter-d7.pages.dev/", tags: "Html Css JS API" },
     
-    { id: 10, img: "/New.png", name: "New portfolio", des: "موقعي الشخصي الجديد باستخدام react js", url: "https://potrfolio-d7.pages.dev/", tags: "Html Css JS React" },
+    { id: 10, img: "/New.png", name: "New portfolio", des: "موقعي الشخصي الجديد باستخدام react js", url: "https://portfolio-d7.pages.dev/", tags: "Html Css JS React" },
     
     { id: 11, img: "/time.jpg", name: "مركز الوقت", des: "يعرض الوقت الحالي في مختلف المدن حول العالم.", url: "https://time-hub-d7.vercel.app/", tags: "Html Css JS Nextjs" },
     
