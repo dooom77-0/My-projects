@@ -24,7 +24,9 @@ export default function Projects() {
     
     { id: 10, img: "/New.png", name: "New portfolio", des: "موقعي الشخصي الجديد باستخدام react js", url: "https://portfolio-d7.pages.dev/", tags: "Html Css JS React" },
     
-    { id: 11, img: "/time.jpg", name: "مركز الوقت", des: "يعرض الوقت الحالي في مختلف المدن حول العالم.", url: "https://time-hub-d7.vercel.app/", tags: "Html Css JS Nextjs" },
+    { id: 11, img: "/time.jpg", name: "مركز الوقت", des: "يعرض الوقت الحالي في مختلف المدن حول العالم.", url: "https://time-hub-d7.vercel.app/", tags: "Html tailwindcss JS Nextjs" },
+
+    { id: 12, img: "/quote.png", name: "ومضة", des: "ومضة يومية من الحكمة والإلهام، يعرض اقتباسات عربية وعالمية قصيرة لتفتح لك نافذة جديدة كل يوم", url: "https://quotes-app-d7.vercel.app/", tags: "Html tailwindcss Nextjs" },
     
   ]
   return (
