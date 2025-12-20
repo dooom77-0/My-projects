@@ -28,7 +28,9 @@ export default function Projects() {
 
     { id: 12, img: "/quote.png", name: "ومضة", des: "ومضة يومية من الحكمة والإلهام، يعرض اقتباسات عربية وعالمية قصيرة لتفتح لك نافذة جديدة كل يوم", url: "https://quotes-app-d7.vercel.app/", tags: "Html tailwindcss Nextjs" },
 
-    {id:13,img:"/calculator.png",name:"الآلة الحاسبة",des:"آلة حاسبة بسيطة باستعمال React,Typescript",url:"https://calculator-d7.pages.dev/",tags:"tailwindcss React TS"},
+    { id: 13, img: "/calculator.png", name: "الآلة الحاسبة", des: "آلة حاسبة بسيطة باستعمال React,Typescript", url: "https://calculator-d7.pages.dev/", tags: "tailwindcss React TS" },
+    
+    { id: 14, img: "/weather.png" , name:"طقس اليوم " , des:"يعرض معلومات الطقس الحالية في مختلف المدن.", url:"https://weather-new-d7.vercel.app/", tags:" Nextjs tailwindcss API"},
 
     
   ]
